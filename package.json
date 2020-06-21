@@ -1,0 +1,17 @@
+{
+  "name": "ikwim-mis",
+  "version": "1.0.0",
+  "description": "Some api for the old ikwim.com app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysql/xdevapi": "8.0.20",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}

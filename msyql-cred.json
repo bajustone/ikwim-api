@@ -1,0 +1,6 @@
+{
+    "host"     : "23.229.233.105",
+    "user"     : "rustuser",
+    "password" : "rustuserpass",
+    "database" : "db_ikwim"
+}
